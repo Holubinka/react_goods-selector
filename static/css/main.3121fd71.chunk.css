@@ -1,0 +1,2 @@
+.app{border:1px solid #000;margin:0 20rem}.button{height:40px;width:80px;border-radius:10px;vertical-align:middle;background:green;text-transform:capitalize}h1{margin:1.25rem}h1 .button{margin-left:1.25rem}ul{width:300px}ul .item{margin-bottom:1.25rem;display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between}li{-webkit-align-items:baseline;align-items:baseline}li.active{background:#0ff}li.active .button{background:red}
+/*# sourceMappingURL=main.3121fd71.chunk.css.map */
